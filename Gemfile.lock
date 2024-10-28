@@ -318,7 +318,7 @@ GEM
       railties (>= 3.2)
       tilt
     regexp_parser (2.9.2)
-    rexml (3.3.7)
+    rexml (3.3.9)
     rouge (4.2.1)
     rspec-core (3.13.0)
       rspec-support (~> 3.13.0)
